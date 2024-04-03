@@ -17,4 +17,4 @@ if (path.pathname == "/find")
 
 });
 
-server.listen(9000, () => { console.log("server ready @ 9000"); });
+server.listen(9000, () => { console.log("server ready @ 9000   yes"); });
